@@ -1,12 +1,6 @@
-<h1 align="center">
-  <span style="background: linear-gradient(270deg, #ff0000, #00ff00, #0000ff); 
-               background-size: 600% 600%; 
-               -webkit-background-clip: text; 
-               -webkit-text-fill-color: transparent; 
-               animation: rainbow 5s ease infinite;">
-    Hi 👋, I'm Ellab Abdelhamid
-  </span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&color=00FF00&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Ellab+Abdelhamid" />
+</p>
 
 <h3 align="center">💻 Software Developer | AI & Cloud Enthusiast</h3>
 
