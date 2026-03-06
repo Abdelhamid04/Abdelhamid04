@@ -24,23 +24,27 @@
 
 <p align="center">
 
-<a href="mailto:Abdelhamid.Ellab@esprit.tn" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=mailtoAbdelhamid.Ellab@esprit.tn" alt="Gmail"/>
-</a>
+  <!-- Gmail -->
+  <a href="mailto:Abdelhamid.Ellab@esprit.tn" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=000000&border=3" alt="Gmail"/>
+  </a>
 
-<a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=https://linkedin.com/in/yourlinkedin" alt="LinkedIn"/>
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/AbdelhamidEllab/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaAQXGuFleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaejQh6YPDaDr4tJM8Pm9D-SA5NqgNDcmJThTDSEmjyXK2UyUovJK8dAkr3ESA_aem_p18l9MFMBHYEkPWrVAy48A" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=000000&border=3" alt="LinkedIn"/>
+  </a>
 
-<a href="https://discord.com" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=https://discord.com" alt="Discord"/>
-</a>
+  <!-- Discord -->
+  <a href="https://discord.com/users/levelup_004#6377" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=000000&labelColor=000000&border=3" alt="Discord"/>
+  </a>
 
-<a href="https://instagram.com" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=https://www.instagram.com/abdou_v4/?__pwa=1" alt="Instagram"/>
-</a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/abdou_v4?igsh=MXM5dHozcGJjMnAzYg%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=000000&border=3" alt="Instagram"/>
+  </a>
 
-</p>>
+</p>
 ---
 
 # 🚀 Tech Stack
