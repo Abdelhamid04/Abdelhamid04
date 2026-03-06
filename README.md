@@ -122,7 +122,7 @@ Also experienced with:
 # 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abdelhamid04&theme=radical&no-frame=true&no-bg=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelhamid04&theme=tokyo-night"/>
 </p>
 
 ---
