@@ -25,22 +25,22 @@
 <p align="center">
 
 <a href="mailto:yourmail@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/abdelhamid04/animated-buttons/main/gmail-rainbow.gif" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=mailto:yourmail@gmail" alt="Gmail"/>
 </a>
 
 <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-  <img src="https://raw.githubusercontent.com/abdelhamid04/animated-buttons/main/linkedin-rainbow.gif" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=https://linkedin.com/in/yourlinkedin" alt="LinkedIn"/>
 </a>
 
 <a href="https://discord.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/abdelhamid04/animated-buttons/main/discord-rainbow.gif" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=https://discord.com" alt="Discord"/>
 </a>
 
 <a href="https://instagram.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/abdelhamid04/animated-buttons/main/instagram-rainbow.gif" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=https://instagram.com" alt="Instagram"/>
 </a>
 
-</p>
+</p>>
 ---
 
 # 🚀 Tech Stack
