@@ -23,29 +23,32 @@
 
 # 🌐 Connect With Me
 
+# 🌐 Connect With Me
+
 <p align="center">
 
-  <!-- Email -->
+  <!-- Email (Instagram pink) -->
   <a href="mailto:Abdelhamid.Ellab@esprit.tn" target="_blank">
-    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=000000&border=3" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-E1306C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/AbdelhamidEllab/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaAQXGuFleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaejQh6YPDaDr4tJM8Pm9D-SA5NqgNDcmJThTDSEmjyXK2UyUovJK8dAkr3ESA_aem_p18l9MFMBHYEkPWrVAy48A" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=000000&border=3" alt="LinkedIn"/>
+  <!-- LinkedIn (official blue) -->
+  <a href="https://www.linkedin.com/in/AbdelhamidEllab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <!-- Discord -->
-  <a href="https://discord.com/users/levelup_004#6377" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=000000&labelColor=000000&border=3" alt="Discord"/>
+  <!-- Discord (official blurple) -->
+  <a href="https://discord.com/users/levelup_004" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/abdou_v4?igsh=MXM5dHozcGJjMnAzYg%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=000000&border=3" alt="Instagram"/>
+  <!-- Instagram (official pink) -->
+  <a href="https://www.instagram.com/abdou_v4" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
 </p>
+
 
 
 # 🚀 Tech Stack
