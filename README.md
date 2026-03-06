@@ -75,17 +75,7 @@
 </p>
 ### 🧮 Data Science & Machine Learning
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit,matplotlib,seaborn"/>
-</p>
-
-### 🤖 AI / LLM & Advanced ML
-<p align="center">
-<img src="https://skillicons.dev/icons?i=openai,fastapi"/>
-</p>
-
-### 📊 Data Analysis & Visualization
-<p align="center">
-<img src="https://skillicons.dev/icons?i=jupyter,tableau,powerbi"/>
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,scikit,matplotlib,seaborn,jupyter"/>
 </p>
 Also experienced with:
 
