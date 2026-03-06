@@ -23,22 +23,24 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20"/>
-  </a>
 
-  <a href="https://linkedin.com/in/yourlinkedin" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20"/>
-  </a>
+<a href="mailto:yourmail@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=mailto:yourmail@gmail" alt="Gmail"/>
+</a>
 
-  <a href="https://discord.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20"/>
-  </a>
+<a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=https://linkedin.com/in/yourlinkedin" alt="LinkedIn"/>
+</a>
 
-  <a href="https://instagram.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20"/>
-  </a>
-</p>
+<a href="https://discord.com" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=https://discord.com" alt="Discord"/>
+</a>
+
+<a href="https://instagram.com" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=https://instagram.com" alt="Instagram"/>
+</a>
+
+</p>>
 ---
 
 # 🚀 Tech Stack
