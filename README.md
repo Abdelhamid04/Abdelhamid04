@@ -24,9 +24,9 @@
 
 <p align="center">
 
-  <!-- Gmail -->
+  <!-- Email -->
   <a href="mailto:Abdelhamid.Ellab@esprit.tn" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=000000&border=3" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=000000&border=3" alt="Email"/>
   </a>
 
   <!-- LinkedIn -->
