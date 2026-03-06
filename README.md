@@ -24,8 +24,8 @@
 
 <p align="center">
 
-<a href="mailto:yourmail@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=mailto:yourmail@gmail" alt="Gmail"/>
+<a href="mailto:Abdelhamid.Ellab@esprit.tn" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=mailtoAbdelhamid.Ellab@esprit.tn" alt="Gmail"/>
 </a>
 
 <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
@@ -37,7 +37,7 @@
 </a>
 
 <a href="https://instagram.com" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=https://instagram.com" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=000000&border=3&logoWidth=20&link=https://www.instagram.com/abdou_v4/?__pwa=1" alt="Instagram"/>
 </a>
 
 </p>>
