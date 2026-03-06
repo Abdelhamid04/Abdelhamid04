@@ -23,21 +23,21 @@
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+  <a href="mailto:yourmail@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=white&color=000000&labelColor=000000&borderColor=ff0000ff,00ff00ff,0000ffff&link=mailto:yourmail@gmail.com"/>
+  </a>
 
-<a href="https://linkedin.com/in/yourlinkedin">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+  <a href="https://linkedin.com/in/yourlinkedin" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&color=000000&labelColor=000000&borderColor=ff0000ff,00ff00ff,0000ffff&link=https://linkedin.com/in/yourlinkedin"/>
+  </a>
 
-<a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
-</a>
+  <a href="https://discord.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=000000&labelColor=000000&borderColor=ff0000ff,00ff00ff,0000ffff&link=https://discord.com"/>
+  </a>
 
-<a href="https://instagram.com">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
+  <a href="https://instagram.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=white&color=000000&labelColor=000000&borderColor=ff0000ff,00ff00ff,0000ffff&link=https://instagram.com"/>
+  </a>
 </p>
 
 ---
