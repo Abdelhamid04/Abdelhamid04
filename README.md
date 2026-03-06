@@ -26,11 +26,10 @@
 
 <p align="center">
 
-  <!-- Email (Instagram pink) -->
-  <!-- Email (Instagram pink) -->
 <a href="mailto:Abdelhamid.Ellab@esprit.tn">
-  <img src="https://img.shields.io/badge/Email-E1306C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-E1306C?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
 </a>
+
 
 
   <!-- LinkedIn (official blue) -->
