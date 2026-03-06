@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&color=FF0000&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Ellab+Abdelhamid;IT+Engineering+Student;Full-Stack+Developer;Flutter+%7C+Web+Developer;Networking+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&color=FF0000&center=true&vCenter=true&width=800&lines=.Hi+👋,+I'm+Ellab+Abdelhamid;IT+Engineering+Student;Full-Stack+Developer;Flutter+%7C+Web+Developer;Networking+Enthusiast" />
 </p>
 
-<h3 align="center">💻 Software Developer | AI & Cloud Enthusiast</h3>
+<h3 align="center">💻 IT Engineering Student</h3>
 
 <p align="center">
 🚀 Passionate about building applications, AI systems, and cloud solutions.
