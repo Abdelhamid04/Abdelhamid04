@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&color=00FF00&center=true&vCenter=true&width=800&lines=.Hi+👋,+I'm+Ellab+Abdelhamid" />
 </p>
 
-<h3 align="center">💻 Software Developer | AI & Cloud Enthusiast</h3>
+<h3 align="center">💻 Engineering student</h3>
 
 <p align="center">
 🚀 Passionate about building applications, AI systems, and cloud solutions.
@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Software Developer & Engineer Student
+- 🎓 Software Developer &  AI & Cloud Enthusiast
 - 🧠 Interested in **Artificial Intelligence & Cloud Computing**
 - 💻 I work with **Flutter, Web, C++, Databases**
 - 🌍 Based in **Tunisia**
