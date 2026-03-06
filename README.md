@@ -21,16 +21,17 @@
 
 ---
 
-# 🌐 Connect With Me
 
 # 🌐 Connect With Me
 
 <p align="center">
 
   <!-- Email (Instagram pink) -->
-  <a href="mailto:Abdelhamid.Ellab@esprit.tn" target="_blank">
-    <img src="https://img.shields.io/badge/Email-E1306C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <!-- Email (Instagram pink) -->
+<a href="mailto:Abdelhamid.Ellab@esprit.tn">
+  <img src="https://img.shields.io/badge/Email-E1306C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 
   <!-- LinkedIn (official blue) -->
   <a href="https://www.linkedin.com/in/AbdelhamidEllab/" target="_blank">
