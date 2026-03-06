@@ -13,8 +13,8 @@
 # 👨‍💻 About Me
 
 - 🎓 IT Engineering Student & Software Developer  
-- 🧠 Interested in **Artificial Intelligence & Cloud Computing**  
-- 💻 I work with **Flutter, Web, C++, Databases**  
+- 🧠 Interested in **Artificial Intelligence, Machine Learning & Cloud Computing**  
+- 💻 I work with **Flutter, Web, C++, Databases, and AI/ML frameworks**  
 - 🌍 Based in **Tunisia**  
 - 🚀 Always learning new technologies
 
@@ -45,41 +45,54 @@
   </a>
 
 </p>
+
 ---
 
 # 🚀 Tech Stack
 
 ### 👨‍💻 Programming Languages
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js"/>
 </p>
 
 ### 🌐 Web Development
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,symfony,react,vue,angular"/>
 </p>
 
 ### 📱 Mobile Development
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,firebase"/>
 </p>
 
 ### 🗄 Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle"/>
 </p>
 
 ### 🛠 DevOps & Tools
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,docker,linux,unix"/>
+</p>
+
+### 🧮 Data Science & Machine Learning
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,r,pandas,numpy,scikit,matplotlib,seaborn,tensorflow,keras,torch,sklearn"/>
+</p>
+
+### 🤖 AI / LLM & Advanced ML
+<p align="center">
+<img src="https://skillicons.dev/icons?i=openai,langchain,transformers,fastapi"/>
+</p>
+
+### 📊 Data Analysis & Visualization
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tableau,powerbi,jupyter"/>
 </p>
 
 Also experienced with:
 
-- Oracle SQL  
-- phpMyAdmin  
-- JSON  
-- Twig  
+- phpMyAdmin, JSON, Twig  
 - Cloud & Networking  
 
 ---
@@ -112,9 +125,10 @@ Also experienced with:
 
 # 🧠 Currently Learning
 
-- 🤖 Artificial Intelligence  
+- 🤖 Artificial Intelligence & LLM  
 - ☁️ Cloud Computing  
 - 📱 Advanced Flutter Development  
+- 🧮 Data Science & Machine Learning  
 
 ---
 
