@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ellab Abdelhamid</h1>
+<h1 align="center">
+  <span style="background: linear-gradient(270deg, #ff0000, #00ff00, #0000ff); 
+               background-size: 600% 600%; 
+               -webkit-background-clip: text; 
+               -webkit-text-fill-color: transparent; 
+               animation: rainbow 5s ease infinite;">
+    Hi 👋, I'm Ellab Abdelhamid
+  </span>
+</h1>
+
 <h3 align="center">💻 Software Developer | AI & Cloud Enthusiast</h3>
 
 <p align="center">
@@ -9,7 +18,7 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Software Developer
+- 🎓 Software Developer & Engineer Student
 - 🧠 Interested in **Artificial Intelligence & Cloud Computing**
 - 💻 I work with **Flutter, Web, C++, Databases**
 - 🌍 Based in **Tunisia**
@@ -52,7 +61,7 @@
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,symfony"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,symfony,react,vue,angular"/>
 </p>
 
 ### 📱 Mobile Development
@@ -64,7 +73,13 @@
 ### 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+### 🛠 DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,unix"/>
 </p>
 
 Also experienced with:
@@ -127,3 +142,11 @@ Also experienced with:
 <p align="center">
 ⭐ From <b>Ellab Abdelhamid</b>
 </p>
+
+<style>
+@keyframes rainbow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
