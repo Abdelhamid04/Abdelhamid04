@@ -1,16 +1,19 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Ellab+Abdelhamid;IT+Engineering+Student;Full+Stack+Developer;Flutter+%7C+Web+Developer;Networking+Enthusiast" />
-</h1>
+<h1 align="center">Hi 👋, I'm Ellab Abdelhamid</h1>
+<h3 align="center">💻 Software Developer | AI & Cloud Enthusiast</h3>
+
+<p align="center">
+🚀 Passionate about building applications, AI systems, and cloud solutions.
+</p>
 
 ---
 
 # 👨‍💻 About Me
 
-• 🎓 **IT Engineering Student**  
-• 💻 **Full-Stack Developer**  
-• 🌐 **Networking Fundamentals**  
-• 📱 **Mobile & Desktop Developer**  
-• 🚀 Passionate about **AI, Cloud & Smart Systems**
+- 🎓 Software Developer
+- 🧠 Interested in **Artificial Intelligence & Cloud Computing**
+- 💻 I work with **Flutter, Web, C++, Databases**
+- 🌍 Based in **Tunisia**
+- 🚀 Always learning new technologies
 
 ---
 
@@ -19,19 +22,19 @@
 <p align="center">
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/yourlinkedin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-<a href="https://discord.gg/YOUR_DISCORD">
-<img src="https://img.shields.io/badge/Discord-indigo?style=for-the-badge&logo=discord"/>
+<a href="https://instagram.com">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </p>
@@ -40,11 +43,38 @@
 
 # 🚀 Tech Stack
 
-<p align="center">
+### 👨‍💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase,php,html,css,js,nodejs,java,python,cpp,c,cs,mysql,oracle,symfony,bootstrap,git,vscode"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js"/>
 </p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,symfony"/>
+</p>
+
+### 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase"/>
+</p>
+
+### 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+Also experienced with:
+
+- Oracle SQL
+- phpMyAdmin
+- JSON
+- Twig
+- Cloud
+- Networking
 
 ---
 
@@ -52,9 +82,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdelhamid04&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdelhamid04&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelhamid04&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelhamid04&theme=tokyonight"/>
 
 </p>
 
@@ -72,20 +102,28 @@
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/Abdelhamid04/Abdelhamid04/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 👀 Profile Visitors
-
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Abdelhamid04&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://github.com/Abdelhamid04/Abdelhamid04/blob/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-# ⚡ Fun Quote
+# 🧠 Currently Learning
 
-> **"Code. Build. Innovate. Repeat."**
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Computing
+- 📱 Advanced Flutter Development
+
+---
+
+# ⚡ Fun Fact
+
+💡 I love building smart systems and innovative applications.
+
+---
+
+<p align="center">
+⭐ From <b>Ellab Abdelhamid</b>
+</p>
