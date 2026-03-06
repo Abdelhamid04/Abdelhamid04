@@ -73,7 +73,24 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,docker,linux,unix"/>
 </p>
+### 🧮 Data Science & Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="40"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="40"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" height="40"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" height="40"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="40"/>
+</p>
 
+### 🤖 AI / LLM & Advanced ML
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="40"/>
+  <img src="https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="40"/>
+  <img src="https://img.shields.io/badge/Transformers-EE4C2C?style=for-the-badge&logo=transformers&logoColor=white" alt="Transformers" height="40"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" height="40"/>
+</p>
 Also experienced with:
 
 - Oracle SQL  
