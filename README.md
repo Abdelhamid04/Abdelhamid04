@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&color=00FF00&center=true&vCenter=true&width=800&lines=.Hi+👋,+I'm+Ellab+Abdelhamid" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&color=FF0000&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Ellab+Abdelhamid;IT+Engineering+Student;Full-Stack+Developer;Flutter+%7C+Web+Developer;Networking+Enthusiast" />
 </p>
 
-<h3 align="center">💻 Engineering student</h3>
+<h3 align="center">💻 Software Developer | AI & Cloud Enthusiast</h3>
 
 <p align="center">
 🚀 Passionate about building applications, AI systems, and cloud solutions.
@@ -12,10 +12,10 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Software Developer &  AI & Cloud Enthusiast
-- 🧠 Interested in **Artificial Intelligence & Cloud Computing**
-- 💻 I work with **Flutter, Web, C++, Databases**
-- 🌍 Based in **Tunisia**
+- 🎓 IT Engineering Student & Software Developer  
+- 🧠 Interested in **Artificial Intelligence & Cloud Computing**  
+- 💻 I work with **Flutter, Web, C++, Databases**  
+- 🌍 Based in **Tunisia**  
 - 🚀 Always learning new technologies
 
 ---
@@ -23,23 +23,21 @@
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://linkedin.com/in/yourlinkedin">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://discord.com">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
 </a>
 
 <a href="https://instagram.com">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
-
 </p>
 
 ---
@@ -47,54 +45,46 @@
 # 🚀 Tech Stack
 
 ### 👨‍💻 Programming Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js"/>
 </p>
 
 ### 🌐 Web Development
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,symfony,react,vue,angular"/>
 </p>
 
 ### 📱 Mobile Development
-
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,firebase"/>
 </p>
 
 ### 🗄 Databases
-
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 ### 🛠 DevOps & Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,docker,linux,unix"/>
 </p>
 
 Also experienced with:
 
-- Oracle SQL
-- phpMyAdmin
-- JSON
-- Twig
-- Cloud
-- Networking
+- Oracle SQL  
+- phpMyAdmin  
+- JSON  
+- Twig  
+- Cloud & Networking  
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abdelhamid04&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelhamid04&theme=tokyonight"/>
-
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdelhamid04&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelhamid04&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdelhamid04&theme=tokyonight"/>
 </p>
 
 ---
@@ -102,9 +92,7 @@ Also experienced with:
 # 📈 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdelhamid04&layout=compact&theme=tokyonight">
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdelhamid04&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -112,18 +100,16 @@ Also experienced with:
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github.com/Abdelhamid04/Abdelhamid04/blob/output/github-contribution-grid-snake.svg"/>
-
+<img src="https://raw.githubusercontent.com/Abdelhamid04/Abdelhamid04/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 # 🧠 Currently Learning
 
-- 🤖 Artificial Intelligence
-- ☁️ Cloud Computing
-- 📱 Advanced Flutter Development
+- 🤖 Artificial Intelligence  
+- ☁️ Cloud Computing  
+- 📱 Advanced Flutter Development  
 
 ---
 
@@ -133,14 +119,22 @@ Also experienced with:
 
 ---
 
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Abdelhamid04&theme=tokyonight"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Abdelhamid04&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
 <p align="center">
 ⭐ From <b>Ellab Abdelhamid</b>
 </p>
-
-<style>
-@keyframes rainbow {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
